@@ -2,10 +2,10 @@
 *Laser cut 3u 54hp eurorack case.*
 
  - **forked from [SYINSI](http://syinsi.com/make-lasercut-eurorack-case/)** | [repo](https://github.com/THX2112/Laser-Cut-Eurorack-Case)
- - **!!!! STILL IN ALPHA, DIDN'T EVEN CUT IT FOR MY OWN USE YET !!!!** If you do, feel free to push issues if any, send pictures or keep me updated !
- - fits to my needs: 2 cases in a single [400x800 mm, 6 mm thick MDF board](https://www.leroymerlin.fr/v3/p/produits/predecoupe-medium-mdf-naturel-ep-6-mm-l-80-x-l-40-cm-e105225) (in French)
+ - **!!!! currently in beta !!!!** If you do, feel free to push issues if any, send pictures or keep me updated !
+ - fits a [Dreadbox mini-bus](https://www.dreadbox-fx.com/product/cardboard-case-power-bundle/)
  - updated in [Inkscape](https://inkscape.org/en/), **DPI changes!**, **.svg only** 
- - Cut first black, then red, then blue
+ - Cut red first, then blue, then green
  
  > - Cut from 6mm hardboard
  > - Uses pre-drilled holes that fits many different screw sizes
