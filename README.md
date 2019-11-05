@@ -8,6 +8,10 @@
  - Cut red first, then blue, then green
  - Single-cut shapes
  
+ # Issues
+ - **drilling holes on "rails" are too large**, i'll take a look next time i'm on it 
+ - **meanwhile select them all and see how it works between 2.5 and 2.75mm if you do it**
+ 
  > - Cut from 6mm hardboard
  > - Uses pre-drilled holes that fits many different screw sizes
  > - Around 54hp wide, and 65mm deep.
